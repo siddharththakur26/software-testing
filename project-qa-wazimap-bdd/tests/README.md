@@ -1,6 +1,6 @@
 ### Website Under Test is [Wazimap](https://wazimap-ng.africa/) <b>
 Implemented BDD framework<br>
-Implemented POM patter<br>
+Implemented POM pattern<br>
 Implemented test hooks<br>
 
 #### Below test steps have followed:
