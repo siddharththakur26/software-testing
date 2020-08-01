@@ -22,7 +22,7 @@ on the left side of the screen
 >2. Behave
 
 #### How to generate Allure reports
-Type in the command: <br>
-behave -f allure_behave.formatter:AllureFormatter -o reports/ features <br>
-After successful run, type: <br>
-allure serve reports/
+> 1. Type in the command: <br>
+> behave -f allure_behave.formatter:AllureFormatter -o reports/ features <br>
+> 2. After successful run, type: <br>
+> allure serve reports/
