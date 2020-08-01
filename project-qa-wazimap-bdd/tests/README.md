@@ -1,7 +1,7 @@
 ### Website Under Test is [Wazimap](https://wazimap-ng.africa/) <b>
-Implemented BDD framework.<br>
-Implemented POM patter. <br>
-Implemented test hooks. <br>
+Implemented BDD framework<br>
+Implemented POM patter<br>
+Implemented test hooks<br>
 
 #### Below test steps have followed:
 
@@ -22,7 +22,7 @@ on the left side of the screen
 >2. Behave
 
 #### How to generate Allure reports
-Type in the command:
-behave -f allure_behave.formatter:AllureFormatter -o reports/ features
-After successful run, type:
+Type in the command: <br>
+behave -f allure_behave.formatter:AllureFormatter -o reports/ features <br>
+After successful run, type: <br>
 allure serve reports/
